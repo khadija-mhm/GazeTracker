@@ -10,3 +10,5 @@ venv
 dist/*
 *.csv
 data/*
+gaze_tracker_env/
+.idea/
